@@ -1,0 +1,20 @@
+{
+  "name": "nodeautomation1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "automate1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "audic": "^3.0.2",
+    "fs": "^0.0.1-security",
+    "gtts": "^0.2.1",
+    "node-fetch": "^2.6.1",
+    "play-sound": "^1.1.6",
+    "readline": "^1.3.0"
+  }
+}
